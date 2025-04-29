@@ -28,7 +28,7 @@ A **Streamlit‑powered marketing assistant** that crawls a website, builds a pr
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/your‑org/34ml‑ai‑assistant.git
+git clone https://github.com/Mostafa-Emad77/34ml‑ai‑assistant.git
 cd 34ml‑ai‑assistant
 
 # 2. Create and activate a virtual environment
