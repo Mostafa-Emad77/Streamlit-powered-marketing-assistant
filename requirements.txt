@@ -1,0 +1,6 @@
+streamlit
+firecrawl
+langchain
+huggingface_hub
+python-dotenv
+requests
